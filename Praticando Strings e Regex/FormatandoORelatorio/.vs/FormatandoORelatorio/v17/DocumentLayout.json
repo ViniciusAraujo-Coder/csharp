@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ALURA\\Curso C#\\Praticando Strings e Regex\\FormatandoORelatorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79A18724-A304-44E9-AE3F-80F3B7FA2AA6}|FormatandoORelatorio\\FormatandoORelatorio.csproj|d:\\alura\\curso c#\\praticando strings e regex\\formatandoorelatorio\\formatandoorelatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79A18724-A304-44E9-AE3F-80F3B7FA2AA6}|FormatandoORelatorio\\FormatandoORelatorio.csproj|solutionrelative:formatandoorelatorio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ALURA\\Curso C#\\Praticando Strings e Regex\\FormatandoORelatorio\\FormatandoORelatorio\\Program.cs",
+              "RelativeDocumentMoniker": "FormatandoORelatorio\\Program.cs",
+              "ToolTip": "D:\\ALURA\\Curso C#\\Praticando Strings e Regex\\FormatandoORelatorio\\FormatandoORelatorio\\Program.cs",
+              "RelativeToolTip": "FormatandoORelatorio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:22:48.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

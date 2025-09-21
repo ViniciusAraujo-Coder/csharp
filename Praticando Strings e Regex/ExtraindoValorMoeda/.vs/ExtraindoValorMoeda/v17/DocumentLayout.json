@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ALURA\\Curso C#\\Praticando Strings e Regex\\ExtraindoValorMoeda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{999FB07C-1528-4C97-9A89-18C62AA169F5}|ExtraindoValorMoeda\\ExtraindoValorMoeda.csproj|d:\\alura\\curso c#\\praticando strings e regex\\extraindovalormoeda\\extraindovalormoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999FB07C-1528-4C97-9A89-18C62AA169F5}|ExtraindoValorMoeda\\ExtraindoValorMoeda.csproj|solutionrelative:extraindovalormoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ALURA\\Curso C#\\Praticando Strings e Regex\\ExtraindoValorMoeda\\ExtraindoValorMoeda\\Program.cs",
+              "RelativeDocumentMoniker": "ExtraindoValorMoeda\\Program.cs",
+              "ToolTip": "D:\\ALURA\\Curso C#\\Praticando Strings e Regex\\ExtraindoValorMoeda\\ExtraindoValorMoeda\\Program.cs",
+              "RelativeToolTip": "ExtraindoValorMoeda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:26:57.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

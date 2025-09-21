@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Estudos\\praticando c#\\Projetos\\Screen Sound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30AFBE92-84EB-4A68-BF20-47ED7B52A277}|Screen Sound\\Screen Sound.csproj|d:\\estudos\\praticando c#\\projetos\\screen sound\\screen sound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AFBE92-84EB-4A68-BF20-47ED7B52A277}|Screen Sound\\Screen Sound.csproj|solutionrelative:screen sound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Estudos\\praticando c#\\Projetos\\Screen Sound\\Screen Sound\\Program.cs",
+              "RelativeDocumentMoniker": "Screen Sound\\Program.cs",
+              "ToolTip": "D:\\Estudos\\praticando c#\\Projetos\\Screen Sound\\Screen Sound\\Program.cs",
+              "RelativeToolTip": "Screen Sound\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:45:12.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

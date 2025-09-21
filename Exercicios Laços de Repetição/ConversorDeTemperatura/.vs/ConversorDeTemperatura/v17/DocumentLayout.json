@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ALURA\\Curso C#\\Exercicios La\u00E7os de Repeti\u00E7\u00E3o\\ConversorDeTemperatura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67628791-4F11-41D6-A1F3-D97E940A0AAF}|ConversorDeTemperatura\\ConversorDeTemperatura.csproj|d:\\alura\\curso c#\\exercicios la\u00E7os de repeti\u00E7\u00E3o\\conversordetemperatura\\conversordetemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67628791-4F11-41D6-A1F3-D97E940A0AAF}|ConversorDeTemperatura\\ConversorDeTemperatura.csproj|solutionrelative:conversordetemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ALURA\\Curso C#\\Exercicios La\u00E7os de Repeti\u00E7\u00E3o\\ConversorDeTemperatura\\ConversorDeTemperatura\\Program.cs",
+              "RelativeDocumentMoniker": "ConversorDeTemperatura\\Program.cs",
+              "ToolTip": "D:\\ALURA\\Curso C#\\Exercicios La\u00E7os de Repeti\u00E7\u00E3o\\ConversorDeTemperatura\\ConversorDeTemperatura\\Program.cs",
+              "RelativeToolTip": "ConversorDeTemperatura\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwFUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:05:24.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

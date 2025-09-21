@@ -1,0 +1,14 @@
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\bin\Debug\net8.0\CalculadoraPorcentagemAumento.exe
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\bin\Debug\net8.0\CalculadoraPorcentagemAumento.deps.json
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\bin\Debug\net8.0\CalculadoraPorcentagemAumento.runtimeconfig.json
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\bin\Debug\net8.0\CalculadoraPorcentagemAumento.dll
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\bin\Debug\net8.0\CalculadoraPorcentagemAumento.pdb
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\obj\Debug\net8.0\CalculadoraPorcentagemAumento.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\obj\Debug\net8.0\CalculadoraPorcentagemAumento.AssemblyInfoInputs.cache
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\obj\Debug\net8.0\CalculadoraPorcentagemAumento.AssemblyInfo.cs
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\obj\Debug\net8.0\CalculadoraPorcentagemAumento.csproj.CoreCompileInputs.cache
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\obj\Debug\net8.0\CalculadoraPorcentagemAumento.dll
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\obj\Debug\net8.0\refint\CalculadoraPorcentagemAumento.dll
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\obj\Debug\net8.0\CalculadoraPorcentagemAumento.pdb
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\obj\Debug\net8.0\CalculadoraPorcentagemAumento.genruntimeconfig.cache
+D:\ALURA\Curso C#\CalculadoraPorcentagemAumento\CalculadoraPorcentagemAumento\obj\Debug\net8.0\ref\CalculadoraPorcentagemAumento.dll

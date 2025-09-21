@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ALURA\\Curso C#\\Exercicios Condicionais If Else Switch Case\\SaudacaoPersonalizada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE8BCCD-740E-43D9-9CE9-BA946B7A22E0}|SaudacaoPersonalizada\\SaudacaoPersonalizada.csproj|d:\\alura\\curso c#\\exercicios condicionais if else switch case\\saudacaopersonalizada\\saudacaopersonalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE8BCCD-740E-43D9-9CE9-BA946B7A22E0}|SaudacaoPersonalizada\\SaudacaoPersonalizada.csproj|solutionrelative:saudacaopersonalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ALURA\\Curso C#\\Exercicios Condicionais If Else Switch Case\\SaudacaoPersonalizada\\SaudacaoPersonalizada\\Program.cs",
+              "RelativeDocumentMoniker": "SaudacaoPersonalizada\\Program.cs",
+              "ToolTip": "D:\\ALURA\\Curso C#\\Exercicios Condicionais If Else Switch Case\\SaudacaoPersonalizada\\SaudacaoPersonalizada\\Program.cs",
+              "RelativeToolTip": "SaudacaoPersonalizada\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:56:10.709Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\bin\Debug\net8.0\VerificandoStringsNumericas.exe
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\bin\Debug\net8.0\VerificandoStringsNumericas.deps.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\bin\Debug\net8.0\VerificandoStringsNumericas.runtimeconfig.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\bin\Debug\net8.0\VerificandoStringsNumericas.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\bin\Debug\net8.0\VerificandoStringsNumericas.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\obj\Debug\net8.0\VerificandoStringsNumericas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\obj\Debug\net8.0\VerificandoStringsNumericas.AssemblyInfoInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\obj\Debug\net8.0\VerificandoStringsNumericas.AssemblyInfo.cs
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\obj\Debug\net8.0\VerificandoStringsNumericas.csproj.CoreCompileInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\obj\Debug\net8.0\VerificandoStringsNumericas.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\obj\Debug\net8.0\refint\VerificandoStringsNumericas.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\obj\Debug\net8.0\VerificandoStringsNumericas.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\obj\Debug\net8.0\VerificandoStringsNumericas.genruntimeconfig.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\VerificandoStringsNumericas\VerificandoStringsNumericas\obj\Debug\net8.0\ref\VerificandoStringsNumericas.dll

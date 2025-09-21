@@ -1,0 +1,14 @@
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\bin\Debug\net8.0\ExtraindoValorMoeda.exe
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\bin\Debug\net8.0\ExtraindoValorMoeda.deps.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\bin\Debug\net8.0\ExtraindoValorMoeda.runtimeconfig.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\bin\Debug\net8.0\ExtraindoValorMoeda.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\bin\Debug\net8.0\ExtraindoValorMoeda.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\obj\Debug\net8.0\ExtraindoValorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\obj\Debug\net8.0\ExtraindoValorMoeda.AssemblyInfoInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\obj\Debug\net8.0\ExtraindoValorMoeda.AssemblyInfo.cs
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\obj\Debug\net8.0\ExtraindoValorMoeda.csproj.CoreCompileInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\obj\Debug\net8.0\ExtraindoValorMoeda.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\obj\Debug\net8.0\refint\ExtraindoValorMoeda.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\obj\Debug\net8.0\ExtraindoValorMoeda.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\obj\Debug\net8.0\ExtraindoValorMoeda.genruntimeconfig.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\ExtraindoValorMoeda\ExtraindoValorMoeda\obj\Debug\net8.0\ref\ExtraindoValorMoeda.dll

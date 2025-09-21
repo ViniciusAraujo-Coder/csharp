@@ -1,0 +1,14 @@
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\bin\Debug\net8.0\AlertasEmMaiusculas.exe
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\bin\Debug\net8.0\AlertasEmMaiusculas.deps.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\bin\Debug\net8.0\AlertasEmMaiusculas.runtimeconfig.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\bin\Debug\net8.0\AlertasEmMaiusculas.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\bin\Debug\net8.0\AlertasEmMaiusculas.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\obj\Debug\net8.0\AlertasEmMaiusculas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\obj\Debug\net8.0\AlertasEmMaiusculas.AssemblyInfoInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\obj\Debug\net8.0\AlertasEmMaiusculas.AssemblyInfo.cs
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\obj\Debug\net8.0\AlertasEmMaiusculas.csproj.CoreCompileInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\obj\Debug\net8.0\AlertasEmMaiusculas.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\obj\Debug\net8.0\refint\AlertasEmMaiusculas.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\obj\Debug\net8.0\AlertasEmMaiusculas.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\obj\Debug\net8.0\AlertasEmMaiusculas.genruntimeconfig.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\AlertasEmMaiusculas\AlertasEmMaiusculas\obj\Debug\net8.0\ref\AlertasEmMaiusculas.dll

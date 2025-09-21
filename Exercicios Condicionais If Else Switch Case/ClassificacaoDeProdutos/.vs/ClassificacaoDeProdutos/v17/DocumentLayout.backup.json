@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ALURA\\Curso C#\\Exercicios Condicionais If Else Switch Case\\ClassificacaoDeProdutos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9384796B-86E8-4009-BB38-4A68E9B98103}|ClassificacaoDeProdutos\\ClassificacaoDeProdutos.csproj|d:\\alura\\curso c#\\exercicios condicionais if else switch case\\classificacaodeprodutos\\classificacaodeprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9384796B-86E8-4009-BB38-4A68E9B98103}|ClassificacaoDeProdutos\\ClassificacaoDeProdutos.csproj|solutionrelative:classificacaodeprodutos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ALURA\\Curso C#\\Exercicios Condicionais If Else Switch Case\\ClassificacaoDeProdutos\\ClassificacaoDeProdutos\\Program.cs",
+              "RelativeDocumentMoniker": "ClassificacaoDeProdutos\\Program.cs",
+              "ToolTip": "D:\\ALURA\\Curso C#\\Exercicios Condicionais If Else Switch Case\\ClassificacaoDeProdutos\\ClassificacaoDeProdutos\\Program.cs*",
+              "RelativeToolTip": "ClassificacaoDeProdutos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:45:11.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

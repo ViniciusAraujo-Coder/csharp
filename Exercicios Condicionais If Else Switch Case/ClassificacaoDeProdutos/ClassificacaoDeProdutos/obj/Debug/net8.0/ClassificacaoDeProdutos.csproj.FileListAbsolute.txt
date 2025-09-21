@@ -1,0 +1,14 @@
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\bin\Debug\net8.0\ClassificacaoDeProdutos.exe
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\bin\Debug\net8.0\ClassificacaoDeProdutos.deps.json
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\bin\Debug\net8.0\ClassificacaoDeProdutos.runtimeconfig.json
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\bin\Debug\net8.0\ClassificacaoDeProdutos.dll
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\bin\Debug\net8.0\ClassificacaoDeProdutos.pdb
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\obj\Debug\net8.0\ClassificacaoDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\obj\Debug\net8.0\ClassificacaoDeProdutos.AssemblyInfoInputs.cache
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\obj\Debug\net8.0\ClassificacaoDeProdutos.AssemblyInfo.cs
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\obj\Debug\net8.0\ClassificacaoDeProdutos.csproj.CoreCompileInputs.cache
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\obj\Debug\net8.0\ClassificacaoDeProdutos.dll
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\obj\Debug\net8.0\refint\ClassificacaoDeProdutos.dll
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\obj\Debug\net8.0\ClassificacaoDeProdutos.pdb
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\obj\Debug\net8.0\ClassificacaoDeProdutos.genruntimeconfig.cache
+D:\ALURA\Curso C#\Exercicios Condicionais If Else Switch Case\ClassificacaoDeProdutos\ClassificacaoDeProdutos\obj\Debug\net8.0\ref\ClassificacaoDeProdutos.dll

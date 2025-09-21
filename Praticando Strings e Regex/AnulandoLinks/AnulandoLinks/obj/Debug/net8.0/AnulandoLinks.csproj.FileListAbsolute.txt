@@ -1,0 +1,14 @@
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\bin\Debug\net8.0\AnulandoLinks.exe
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\bin\Debug\net8.0\AnulandoLinks.deps.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\bin\Debug\net8.0\AnulandoLinks.runtimeconfig.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\bin\Debug\net8.0\AnulandoLinks.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\bin\Debug\net8.0\AnulandoLinks.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\obj\Debug\net8.0\AnulandoLinks.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\obj\Debug\net8.0\AnulandoLinks.AssemblyInfoInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\obj\Debug\net8.0\AnulandoLinks.AssemblyInfo.cs
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\obj\Debug\net8.0\AnulandoLinks.csproj.CoreCompileInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\obj\Debug\net8.0\AnulandoLinks.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\obj\Debug\net8.0\refint\AnulandoLinks.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\obj\Debug\net8.0\AnulandoLinks.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\obj\Debug\net8.0\AnulandoLinks.genruntimeconfig.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\AnulandoLinks\AnulandoLinks\obj\Debug\net8.0\ref\AnulandoLinks.dll

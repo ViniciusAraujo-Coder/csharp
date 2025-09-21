@@ -1,0 +1,14 @@
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\bin\Debug\net8.0\DividindoUmaString.exe
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\bin\Debug\net8.0\DividindoUmaString.deps.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\bin\Debug\net8.0\DividindoUmaString.runtimeconfig.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\bin\Debug\net8.0\DividindoUmaString.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\bin\Debug\net8.0\DividindoUmaString.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\obj\Debug\net8.0\DividindoUmaString.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\obj\Debug\net8.0\DividindoUmaString.AssemblyInfoInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\obj\Debug\net8.0\DividindoUmaString.AssemblyInfo.cs
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\obj\Debug\net8.0\DividindoUmaString.csproj.CoreCompileInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\obj\Debug\net8.0\DividindoUmaString.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\obj\Debug\net8.0\refint\DividindoUmaString.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\obj\Debug\net8.0\DividindoUmaString.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\obj\Debug\net8.0\DividindoUmaString.genruntimeconfig.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\DividindoUmaString\DividindoUmaString\obj\Debug\net8.0\ref\DividindoUmaString.dll

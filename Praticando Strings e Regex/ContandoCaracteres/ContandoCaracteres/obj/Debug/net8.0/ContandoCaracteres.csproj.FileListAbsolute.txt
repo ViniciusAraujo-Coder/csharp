@@ -1,0 +1,14 @@
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\bin\Debug\net8.0\ContandoCaracteres.exe
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\bin\Debug\net8.0\ContandoCaracteres.deps.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\bin\Debug\net8.0\ContandoCaracteres.runtimeconfig.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\bin\Debug\net8.0\ContandoCaracteres.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\bin\Debug\net8.0\ContandoCaracteres.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.AssemblyInfoInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.AssemblyInfo.cs
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.csproj.CoreCompileInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\obj\Debug\net8.0\refint\ContandoCaracteres.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\obj\Debug\net8.0\ContandoCaracteres.genruntimeconfig.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\ContandoCaracteres\ContandoCaracteres\obj\Debug\net8.0\ref\ContandoCaracteres.dll

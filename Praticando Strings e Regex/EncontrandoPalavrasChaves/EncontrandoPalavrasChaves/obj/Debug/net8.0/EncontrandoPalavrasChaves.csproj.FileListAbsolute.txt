@@ -1,0 +1,14 @@
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\bin\Debug\net8.0\EncontrandoPalavrasChaves.exe
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\bin\Debug\net8.0\EncontrandoPalavrasChaves.deps.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\bin\Debug\net8.0\EncontrandoPalavrasChaves.runtimeconfig.json
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\bin\Debug\net8.0\EncontrandoPalavrasChaves.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\bin\Debug\net8.0\EncontrandoPalavrasChaves.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\obj\Debug\net8.0\EncontrandoPalavrasChaves.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\obj\Debug\net8.0\EncontrandoPalavrasChaves.AssemblyInfoInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\obj\Debug\net8.0\EncontrandoPalavrasChaves.AssemblyInfo.cs
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\obj\Debug\net8.0\EncontrandoPalavrasChaves.csproj.CoreCompileInputs.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\obj\Debug\net8.0\EncontrandoPalavrasChaves.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\obj\Debug\net8.0\refint\EncontrandoPalavrasChaves.dll
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\obj\Debug\net8.0\EncontrandoPalavrasChaves.pdb
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\obj\Debug\net8.0\EncontrandoPalavrasChaves.genruntimeconfig.cache
+D:\ALURA\Curso C#\Praticando Strings e Regex\EncontrandoPalavrasChaves\EncontrandoPalavrasChaves\obj\Debug\net8.0\ref\EncontrandoPalavrasChaves.dll
